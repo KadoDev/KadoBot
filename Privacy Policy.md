@@ -12,8 +12,6 @@ The data mentioned is used and stored securely solely for the bots operational n
 
 - Guild ID: This identification is unique to a specific discord guild, and is used to efficiently assign game data to a particular discord guild, Guild ID is easily accessible by normal users.
 
-- PayPal Data: PayPal transactional data is data provided by PayPal Holdings, Inc. through their API with each transaction, this helps the team identify users that attempted to complete transactions related to the bot for the purpose of providing any form of help related to the transaction.
-
 We hold the given information for as long as the services are rendered to provide you with a seamless experience. Given data is erased when deemed no longer applicable. Or in case of termination or deletion of a user account or guild. A request for the deletion of data can be made in our support server by approaching the staff team or developers by the authorised party.
 
 ## Third Parties:
